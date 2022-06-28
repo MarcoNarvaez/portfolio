@@ -105,6 +105,12 @@ header{
     border-radius: 10px;
 }
 
+.contacto{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
 footer{
     background-color: #091540;
     display: flex;
@@ -113,11 +119,6 @@ footer{
     align-items: center;
     color: #F2F2F2;
     height: 250px;
-}
-.contacto{
-    width: 30%;
-    display: flex;
-    justify-content: center;
 }
 
 @media (max-width: 1000px) {
