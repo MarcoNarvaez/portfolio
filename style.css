@@ -86,11 +86,14 @@ header{
     align-items: center;
     color: #303030;
 }
-.proyectos{
-    width: 60%;
+
+.swiper-wrapper {
+    width: 150vh;
     display: flex;
     justify-content: space-between;
+    margin: 5%;
 }
+
 .card{
     text-align: center;
     width: 30%;
