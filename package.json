@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "swiper": "^8.3.1"
-  }
+  },
+    "scripts": {
+      "build": "build --output public"
+    }
 }
+
